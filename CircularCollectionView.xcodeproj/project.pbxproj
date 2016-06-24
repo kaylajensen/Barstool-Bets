@@ -18,6 +18,7 @@
 		1264DB721AFF385B00840B41 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1264DB711AFF385B00840B41 /* CollectionViewController.swift */; };
 		1284E0FF1B045F0F00FE9424 /* bg-dark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1284E0FE1B045F0F00FE9424 /* bg-dark.jpg */; };
 		12ECD9431B15C3FE00992BF0 /* CircularCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12ECD9421B15C3FE00992BF0 /* CircularCollectionViewLayout.swift */; };
+		327B1E101D1D9C57001AD904 /* pineapple.png in Resources */ = {isa = PBXBuildFile; fileRef = 327B1E0F1D1D9C57001AD904 /* pineapple.png */; };
 		327C720F1D1AF259005B1051 /* wood-pattern.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 327C720E1D1AF259005B1051 /* wood-pattern.jpg */; };
 		327C72111D1B15F8005B1051 /* barbetslogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 327C72101D1B15F8005B1051 /* barbetslogo.png */; };
 		327C72131D1B1F48005B1051 /* barbetsicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 327C72121D1B1F48005B1051 /* barbetsicon.png */; };
@@ -50,6 +51,7 @@
 		1264DB711AFF385B00840B41 /* CollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 		1284E0FE1B045F0F00FE9424 /* bg-dark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bg-dark.jpg"; sourceTree = "<group>"; };
 		12ECD9421B15C3FE00992BF0 /* CircularCollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = CircularCollectionViewLayout.swift; sourceTree = "<group>"; };
+		327B1E0F1D1D9C57001AD904 /* pineapple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pineapple.png; sourceTree = "<group>"; };
 		327C720E1D1AF259005B1051 /* wood-pattern.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "wood-pattern.jpg"; sourceTree = "<group>"; };
 		327C72101D1B15F8005B1051 /* barbetslogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barbetslogo.png; sourceTree = "<group>"; };
 		327C72121D1B1F48005B1051 /* barbetsicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barbetsicon.png; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				327C72101D1B15F8005B1051 /* barbetslogo.png */,
 				327C72141D1B222F005B1051 /* barbetslogo180180.png */,
 				327C72121D1B1F48005B1051 /* barbetsicon.png */,
+				327B1E0F1D1D9C57001AD904 /* pineapple.png */,
 				327C720E1D1AF259005B1051 /* wood-pattern.jpg */,
 				120233431B03AA6E009DAE0A /* Images */,
 				121FE6EA1AF8ABBB00CB9C1A /* Supporting Files */,
@@ -236,6 +239,7 @@
 				120233481B03B741009DAE0A /* CircularCollectionViewCell.xib in Resources */,
 				120233441B03AA6E009DAE0A /* Images in Resources */,
 				121FE6F21AF8ABBB00CB9C1A /* Main.storyboard in Resources */,
+				327B1E101D1D9C57001AD904 /* pineapple.png in Resources */,
 				121FE6F71AF8ABBB00CB9C1A /* LaunchScreen.xib in Resources */,
 				1284E0FF1B045F0F00FE9424 /* bg-dark.jpg in Resources */,
 				327C72131D1B1F48005B1051 /* barbetsicon.png in Resources */,
